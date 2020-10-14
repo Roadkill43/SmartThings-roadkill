@@ -8,7 +8,7 @@ definition(
     name: "Foscam preset motion active",
     namespace: "roadkill",
     author: "roadkill",
-    description: "moves foscam to preset location and enables motion detection based on sensor",
+    description: "moves foscam to  preset location and enables motion detection based on sensor",
     category: "Safety & Security",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
     iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience@2x.png")
